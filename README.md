@@ -25,6 +25,6 @@ The main aim of our project is to provide a paper-less hospital. The system also
 
 
 # Project Members:
-  1: Rajneesh Kumar
+  1: Rajneesh Kumar(CSB17060)
   
-  2: Jitul Rajbongshi
+  2: Jitul Rajbongshi(CSB17072)
